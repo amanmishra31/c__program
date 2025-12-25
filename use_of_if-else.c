@@ -2,7 +2,7 @@
 int main()  
 {  
    int a=9, b=12;  
-   if(a>b){
+   if(a><b){
    	printf("a is a greater number");
    }
    else{
